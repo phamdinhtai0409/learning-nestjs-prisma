@@ -1,4 +1,4 @@
-#Wasabi API
+#Nestjs API
 
 ## Installation
 
